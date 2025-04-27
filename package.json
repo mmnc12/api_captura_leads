@@ -1,0 +1,21 @@
+{
+  "name": "api_captura_leads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmnc12/api_captura_leads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mmnc12/api_captura_leads/issues"
+  },
+  "homepage": "https://github.com/mmnc12/api_captura_leads#readme"
+}
